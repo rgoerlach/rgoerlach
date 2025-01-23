@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm [Your Name], a passionate developer and tech enthusiast! 🚀 I love solving real-world problems through code and continuously exploring new technologies.
+I'm Robin Görlach, a passionate developer and tech enthusiast! 🚀 I love solving real-world problems through code and continuously exploring new technologies.
 
 ### 🌟 About Me
 - 🔭 I’m currently working on **various Projects**.
-- 🌱 I’m currently learning **Full-Stack Web Development** at [WBS Coding School](https://www.wbscodingschool.com/), focusing on JavaScript, React, Node.js, and more.
+- 🌱 I’m currently learning **Full-Stack Web Development**, focusing on JavaScript, React, Node.js, MongoDB and more.
 - 👯 I’m looking to collaborate on **open-source projects** and innovative ideas.
 - 🤔 I’m looking for help with **advanced CSS layouts** and **JavaScript debugging** tips.
 - 💬 Ask me about **Linux administration**, **C#**, or **scientific software development**.
